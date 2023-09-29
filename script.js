@@ -69,9 +69,12 @@ const inLoves = areTheyInLove(flower1Petals, flower2Petals);
 console.log(inLoves);
 // Output will be true
 
-//11 Du kommer att få ett ord. Din uppgift är att returnera det mellersta tecknet i ordet. Om ordets längd är udda, returnera det mellersta tecknet. Om ordets längd är jämnt, returnera de två mellersta tecknen
+//11 Du kommer att få ett ord. Din uppgift är att returnera det mellersta tecknet i ordet. 
+//Om ordets längd är udda, returnera det mellersta tecknet. 
+//Om ordets längd är jämnt, returnera de två mellersta tecknen
 
-//12: Skriv en funktion som retunerar längden av det kortaste ordet i en // mening **kan innehålla en loop för att lösas exempelvis en for loop
+//12: Skriv en funktion som retunerar längden av det kortaste ordet i en 
+// mening **kan innehålla en loop för att lösas exempelvis en for loop
 
 function findShortestWordLength(str) {
   const words = str.split(" ");
