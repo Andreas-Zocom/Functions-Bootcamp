@@ -118,7 +118,7 @@ console.log(isPrime(num1)); // Output will be true
 console.log(isPrime(num2)); // Output will be fals
 
 /* 
-     		 1
+     		     1
           3     5
        7     9    11
    13    15    17    19
